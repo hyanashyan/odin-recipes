@@ -1,0 +1,38 @@
+.recipes{
+    width: 500px;
+    height: 500px;
+    border: solid;
+    border-color: blueviolet;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    background-color: aqua;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.list.all{
+    margin-top: -15px;
+    padding: 25px;
+    font-weight: bold;
+    list-style: none;
+    font-style: oblique;
+    display: block;
+    border: solid;
+    
+    
+}
+.list.burger,
+.pizza,
+.burrito{
+padding: 15px;
+margin: 10px;
+border: fuchsia;
+border-style: solid;
+background-color: cyan;
+}
+
+
+
